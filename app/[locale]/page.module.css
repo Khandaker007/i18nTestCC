@@ -1,0 +1,9 @@
+.linkContainer{
+  display: flex;
+  gap: 2rem;
+
+  margin-bottom: 5rem;
+  margin-top: 2rem;
+
+  color: paleturquoise
+}
